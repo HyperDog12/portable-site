@@ -1,1 +1,1 @@
-document.documentElement.innerHTML = "<head><title>Portable Site || Home</title><script>function settings(){document.documentElement.innerHTML = ''; let settings = document.createElement('script'); settings.src = 'https://raw.githubusercontent.com/HyperDog12/portable-site/9bf4a9a9d1f4eff645b80ecf61c6b7bdb65119f4/settings.js'; document.documentElement.appendChild(settings)}</script></head><body></body>";
+document.documentElement.innerHTML = "";
