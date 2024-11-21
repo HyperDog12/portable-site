@@ -1,0 +1,1 @@
+document.documentElement.innerHTML = "<head><title>Portable Site || Settings</title></head>";
